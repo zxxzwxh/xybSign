@@ -30,7 +30,7 @@ just open it -> [异地打卡](https://xybfree.fanatics013.asia/)
 
 - 配置打卡周期（可选，默认为每天9AM执行）
 
-	修改文件`.github/workflows/main.yml`文件中的'cron'，如果你不知道怎么写，可以前往 [core生成](core生成)
+	修改文件`.github/workflows/main.yml`文件中的'cron'，如果你不知道怎么写，可以前往 [core生成](https://cron.qqe2.com/)
 
 - 配置Actions secrets
   
