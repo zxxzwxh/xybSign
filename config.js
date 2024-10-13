@@ -2,8 +2,8 @@ const config = {
   mode: "in", // 签到:in,签退:out
   accounts: [
     {
-      username: "", //用户名
-      password: "", //密码
+      username: "18876144950", //
+      password: "20020803zxh", //
       openId: "", //微信小程序抓包openid(可选)
       unionId: "", //微信小程序抓包unionId(可选)
       sign: true, //是否自动签到
@@ -24,8 +24,8 @@ const config = {
     //   needReport: false, //是否自动填写周报
     // },
   ],
-  qmsgKey: "", //qmsg酱key
-  qmsgTo: "", //推送的qq号,用,分隔(可选)
+  qmsgKey: "e6856ec20b2cd22ea2ae7a713efb0696", //qmsg酱key
+  qmsgTo: "1761819314", //推送的qq号,用,分隔(可选)
 };
 
 const modeCN = {
